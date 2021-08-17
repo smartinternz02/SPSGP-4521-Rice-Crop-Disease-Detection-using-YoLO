@@ -7,6 +7,4 @@ YoLO (you only look once), an algorithm that is used for object detection in rea
 
 YOLO-based Convolutional Neural Network family of models for object detection and the most recent variation called YOLOv3.
 
-YoLOv3 has a deeper architecture of feature extractor called Darknet-53. 
-
-A 53-layer trained on Imagenet and for the task of detection 53 more layers has been stacked onto it, which gives us a 106 layer fully convolutional underlying architecture for yolov3.
+YoLOv3 has a deeper architecture of feature extractor called Darknet-53. A 53-layer trained on Imagenet and for the task of detection 53 more layers has been stacked onto it, which gives us a 106 layer fully convolutional underlying architecture for yolov3.
