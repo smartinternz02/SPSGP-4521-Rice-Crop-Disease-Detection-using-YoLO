@@ -32,4 +32,4 @@ Steps:
 3. Now train your yolo model "python Train_YOLO.py" - this process may take few hours based on how many images you have given in the dataset
 4. After Training, test your model "python Detector.py" - the output will be displayed and there will be a folder with "Test_Image_Detection_Results" which consists of output images with bounding boxes over the disease detected with its name and tag color.
 
-Video link - 
+The output of my project is shown in this Video link - https://youtu.be/UgmtTtdKVUc
