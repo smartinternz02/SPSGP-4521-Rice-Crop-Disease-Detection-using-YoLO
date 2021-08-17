@@ -1,7 +1,7 @@
 # SPSGP-4521-Rice-Crop-Disease-Detection-using-YoLO
 Rice Crop Disease Detection using YoLO
 
-In this i am using yolov3 model
+In this i am using yolov3 model.
 YoLO (you only look once), an algorithm that is used for object detection in real time. It predicts classes and bounding boxes for the testing images in one run of the algorithm.
 YOLO-based Convolutional Neural Network family of models for object detection and the most recent variation called YOLOv3.
 
