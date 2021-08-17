@@ -10,9 +10,9 @@ YOLO-based Convolutional Neural Network family of models for object detection an
 YoLOv3 has a deeper architecture of feature extractor called Darknet-53. A 53-layer trained on Imagenet and for the task of detection 53 more layers has been stacked onto it, which gives us a 106 layer fully convolutional underlying architecture for yolov3.
 
 Pre-Requisites:
-Anaconda (python IDE)
-Microsoft's Visual Object Tagging Tool (VoTT)
-Python packages
+1. Anaconda (python IDE)
+2. Microsoft's Visual Object Tagging Tool (VoTT)
+3. Python packages
 
 Python Packages:
 1. Tensorflow
