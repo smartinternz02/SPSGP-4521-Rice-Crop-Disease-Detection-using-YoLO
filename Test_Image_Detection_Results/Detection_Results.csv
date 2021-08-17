@@ -1,0 +1,7 @@
+image,image_path,xmin,ymin,xmax,ymax,label,confidence,x_size,y_size
+1.png,C:\Users\chandana\Desktop\yolo_structure\Data\Source_Images\Test_Images\1.png,96,0,178,335,0,0.2967079281806946,224,335
+1.png,C:\Users\chandana\Desktop\yolo_structure\Data\Source_Images\Test_Images\1.png,87,0,128,335,0,0.4264562726020813,224,335
+2.jpg,C:\Users\chandana\Desktop\yolo_structure\Data\Source_Images\Test_Images\2.jpg,0,175,185,346,0,0.7482520937919617,300,400
+3.jpg,C:\Users\chandana\Desktop\yolo_structure\Data\Source_Images\Test_Images\3.jpg,810,385,1376,799,2,0.41855189204216003,1535,1037
+4.jpg,C:\Users\chandana\Desktop\yolo_structure\Data\Source_Images\Test_Images\4.jpg,13,313,561,682,1,0.4538337290287018,585,780
+4.jpg,C:\Users\chandana\Desktop\yolo_structure\Data\Source_Images\Test_Images\4.jpg,0,146,585,641,1,0.8926427960395813,585,780
