@@ -24,9 +24,12 @@ VoTT is used for annotating and labelling the images.
 Create a project name as "Annotations". Give the Source Images/Training Images path as source for the images and as the destination path. A new folder will be created with a given name at the export settings. Export it as CSV
 
 After creating the dataset
+Download - https://github.com/qqwweee/keras-yolo3
 
 Steps:
 1. Open your anaconda command prompt and run "python Convert_to_YOLO_format.py" - this will create the data_classes.txt and data_train.txt files
 2. Next run "python Download_and_Convert_YOLO_weights.py" 
 3. Now train your yolo model "python Train_YOLO.py" - this process may take few hours based on how many images you have given in the dataset
 4. After Training, test your model "python Detector.py" - the output will be displayed and there will be a folder with "Test_Image_Detection_Results" which consists of output images with bounding boxes over the disease detected with its name and tag color.
+
+Video link - https://drive.google.com/file/d/1Zb2dsHmJBOseTq_VqHEFary-0v1B_23V/view?usp=sharing
