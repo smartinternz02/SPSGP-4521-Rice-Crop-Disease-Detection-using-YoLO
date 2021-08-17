@@ -1,0 +1,125 @@
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(1).jpeg 61,287,414,482,0 475,177,584,314,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(1).png 82,123,199,175,0 135,44,215,102,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(10).jpg 40,119,409,347,0 331,47,594,268,0 264,476,445,572,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\Bacterial%20Blight%20(1).jpg 240,7,717,665,0 947,370,1090,720,0 773,18,943,254,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(10).png 614,369,788,957,0 157,384,515,763,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(12).jpg 25,253,139,314,0 98,53,234,152,0 259,157,363,239,0 197,220,249,294,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(13).jpg 91,164,180,220,0 248,83,347,167,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(11).jpg 38,53,98,82,0 95,20,170,47,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(12).png 10,90,94,151,0 126,5,242,221,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(11).png 79,230,303,300,0 72,95,279,160,0 343,225,423,249,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(13).png 118,76,311,240,0 285,1,347,45,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(14).jpg 150,235,942,450,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(16).jpg 117,149,165,212,0 278,204,307,246,0 169,101,222,142,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(15).png 291,299,420,343,0 188,203,215,296,0 333,85,381,161,0 25,196,50,223,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(14).png 222,62,315,177,0 3,5,30,129,0 105,195,140,248,0 251,1,360,52,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(17).jpg 662,124,1101,399,0 573,402,744,635,0 517,521,573,825,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(17).png 12,46,36,81,0 192,64,230,86,0 94,41,157,93,0 182,99,263,205,0 31,105,75,173,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(18).jpg 388,145,871,286,0 415,378,902,552,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(19).jpg 240,126,541,561,0 550,206,737,464,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(16).png 525,172,730,257,0 489,226,526,317,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(2).jpeg 50,468,142,580,0 470,550,774,641,0 414,161,559,227,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(2).jpg 46,204,256,278,0 158,143,262,200,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(2).png 42,21,87,132,0 175,151,237,194,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(21).jpg 129,73,183,176,0 241,177,323,236,0 270,244,299,276,0 301,101,442,176,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(20).jpg 15,555,372,700,0 302,132,443,620,0 8,330,282,548,0 449,535,755,643,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(22).jpg 116,90,198,172,0 170,67,179,76,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(27).jpg 145,84,440,794,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(26).jpg 13,109,80,179,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(24).jpg 1070,1031,2075,1260,0 677,63,1379,781,0 1748,799,2049,1345,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(25).jpg 958,405,1475,788,0 70,609,312,828,0 645,1269,952,1578,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(28).jpg 1,166,202,342,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(3).jpeg 78,92,119,178,0 120,47,201,180,0 49,108,65,142,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(3).png 68,161,214,210,0 264,149,305,209,0 80,97,145,140,0 126,41,197,103,0 169,14,223,56,0 237,79,312,135,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(3).jpg 1610,1277,2351,1409,0 1973,644,2442,861,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(29).jpg 863,922,1634,1429,0 2064,1044,2563,1356,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(34).jpg 316,140,418,218,0 270,213,379,273,0 291,322,384,423,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(32).jpg 171,96,212,118,0 95,74,142,118,0 216,99,280,127,0 130,53,156,84,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(33).jpg 358,642,476,683,0 161,245,278,407,0 237,582,356,668,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(30).jpg 809,1401,1413,2137,0 1685,63,2237,782,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(31).jpg 460,1229,1780,1825,0 642,495,1954,1132,0 1933,630,2769,1200,0 1806,1299,2217,1661,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(35).jpg 440,124,529,323,0 266,162,416,314,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(37).jpg 130,7,367,146,0 137,124,215,190,0 53,256,193,327,0 221,203,322,283,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(38).jpg 82,30,359,154,0 79,163,325,323,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(39).jpg 360,185,543,425,1 16,39,336,467,1 602,176,702,300,1 550,356,715,475,1
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(4).jpg 650,630,1537,1172,0 1575,1025,2644,2308,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(43).jpg 151,122,211,218,0 152,58,282,211,0 309,63,359,164,0 238,52,287,87,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(4).png 341,196,426,340,0 216,285,275,441,0 50,43,97,90,0 124,31,168,74,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(40).jpg 130,483,301,668,0 512,135,668,262,0 619,489,743,548,0 518,293,560,442,0 89,289,186,377,0 679,370,765,431,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(41).jpg 324,259,417,614,0 231,411,314,671,0 89,302,310,481,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(42).jpg 211,1,291,156,0 137,160,239,383,0 139,26,179,135,0 118,212,165,281,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\leaf%20smut%20(9).jpg 257,2,525,120,2 263,182,368,289,2
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(45).jpg 197,268,477,441,0 554,134,879,348,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(44).jpg 546,359,882,717,0 444,42,703,349,0 408,361,626,493,0 175,27,478,355,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(46).jpg 132,372,1596,824,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\leaf%20smut%20(8).jpg 909,827,1894,1198,2
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\images%20(51).jpg 17,13,253,156,1
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\images%20(19).jpg 19,34,259,163,1
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\images%20(47).jpg 20,41,247,187,1
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\images%20(18).jpg 4,6,182,265,1
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\images%20(48).jpg 8,24,275,163,1
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\images%20(52).jpg 0,0,84,194,1 160,1,190,194,1 212,1,258,194,1
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\images%20(53).jpg 13,20,273,155,1
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\images%20(54).jpg 33,70,300,163,1
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\images%20(55).jpg 8,24,189,222,1
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\images%20(56).jpg 10,13,259,169,1
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\images%20(58).jpg 7,46,259,177,1
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\images%20(63).jpg 19,12,247,174,1
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\images%20(8).jpg 12,22,252,151,1
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\images.jpg 8,2,276,108,1
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\leaf%20smut%20(1).jpg 217,248,343,385,2 143,259,199,364,2 533,307,598,399,2 355,331,446,394,2
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\leaf%20smut%20(10).jpg 10,112,400,268,2
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\leaf%20smut%20(13).jpg 31,179,670,353,2
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\leaf%20smut%20(11).jpg 734,485,1535,672,2 30,596,736,737,2
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\leaf%20smut%20(12).jpg 271,324,1013,866,2 1082,306,1536,517,2 1021,584,1536,788,2 9,602,351,972,2
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\leaf%20smut%20(1).png 190,222,249,453,2
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\leaf%20smut%20(14).jpg 104,17,292,491,2 416,4,689,515,2 273,7,477,486,2
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(48).jpg 260,155,615,483,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\leaf%20smut%20(15).jpg 172,83,623,302,2
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\leaf%20smut%20(16).jpg 178,96,283,299,2 384,146,410,332,2 526,91,585,253,2
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(49).jpg 1183,685,1921,1634,0 390,904,789,1129,0 978,316,1332,539,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(51).jpg 100,14,489,423,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(52).jpg 255,3,415,571,0 159,2,285,233,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(5).jpg 172,5,243,639,0 250,3,371,636,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(5).png 528,369,818,699,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(50).jpg 2239,1477,4274,2508,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(57).jpg 267,2,303,294,0 103,2,151,294,0 203,1,237,298,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(55).jpg 1,7,539,487,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(58).jpg 210,138,521,264,0 415,58,562,124,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(53).jpg 604,263,1687,954,0 885,965,1227,1733,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(56).jpg 3,87,205,1193,0 698,769,1137,1169,0 1215,437,1419,644,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(59).jpg 332,163,449,227,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(61).jpg 1,0,182,115,0 115,131,161,205,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(6).jpg 129,7,200,534,0 211,292,278,600,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(60).jpg 446,443,1095,761,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(6).png 476,0,677,238,0 743,12,978,248,0 347,181,440,347,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(7).jpg 198,77,437,252,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(8).jpg 253,208,519,424,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(8).png 296,11,535,242,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(7).png 11,237,383,541,0 752,528,932,873,0 336,60,870,380,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(62).jpg 319,221,928,1797,0 2878,1198,3818,1898,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\leaf%20smut%20(17).jpg 30,79,443,253,2
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(9).jpg 57,151,229,262,0 233,107,401,280,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\leaf%20smut%20(18).jpg 144,2,331,151,2
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\leaf%20smut%20(19).jpg 41,540,1914,1159,1
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\bacterial%20blight%20(9).png 385,447,725,786,0 280,1042,733,1368,0
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\leaf%20smut%20(21).jpg 177,812,1912,983,2
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\leaf%20smut%20(2).jpg 114,44,3191,2545,2
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\leaf%20smut%20(20).jpg 76,117,1129,1166,1
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\leaf%20smut%20(22).jpg 659,20,3427,2509,2
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\leaf%20smut%20(2).png 713,415,827,1809,2
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\leaf%20smut%20(26).jpg 196,78,312,138,2 497,278,552,339,2
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\leaf%20smut%20(27).jpg 155,11,184,282,2 214,28,246,294,2
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\leaf%20smut%20(24).jpg 1501,393,2346,2211,2 3066,612,3577,1246,2
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\leaf%20smut%20(25).jpg 2140,76,3159,1582,2 1572,32,2714,1157,2 29,0,1458,843,2 3507,852,3861,1286,2
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\leaf%20smut%20(23).jpg 915,1916,1277,2233,2 1322,2676,1620,2924,2
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\leaf%20smut%20(28).jpg 95,15,203,262,2 204,30,280,189,2 300,37,318,118,2
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\leaf%20smut%20(3).jpg 173,18,468,799,2
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\leaf%20smut%20(30).jpg 362,246,1535,433,2
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\leaf%20smut%20(29).jpg 638,217,792,401,2 272,852,369,962,2 281,560,393,648,2
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\leaf%20smut%20(3).png 514,3,927,940,2 62,4,212,932,2
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\leaf%20smut%20(31).jpg 329,62,412,199,2 452,56,513,126,2 78,97,140,181,2
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\leaf%20smut%20(5).jpg 198,11,406,589,2
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\leaf%20smut%20(4).jpg 119,10,199,270,2
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\leaf%20smut%20(6).jpg 205,206,337,332,2 287,87,390,178,2
+C:\Users\chandana\Desktop\yolo_stucture\Data\Source_Images\Training_Images\vott-csv-export\leaf%20smut%20(4).png 375,60,649,358,2 468,370,589,508,2 57,160,187,455,1 103,32,225,137,1 267,133,325,419,1
